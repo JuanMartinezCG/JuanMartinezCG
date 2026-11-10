@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Juan Camilo Martínez
+
 
 [🇨🇴 Español](README.md) · [🇺🇸 English](README.en.md)
 
@@ -6,6 +6,7 @@
 
   <img src="assets/banner-github.png" alt="Juan Camilo Martínez - Software Developer" width="100%"/>
 
+  # 👋 ¡Hola! Soy Juan Camilo Martínez
   ### Ingeniero de Sistemas | Desarrollador de Software | Full Stack Developer
 
   **Construyendo soluciones, aprendiendo continuamente y convirtiendo ideas en código.**
